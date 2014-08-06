@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{C9723946-EB1F-4394-BF1B-0A19578AA06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banktests", "Banktests\Banktests.csproj", "{72A2FF62-103E-4BB1-860D-9E6E2EE77628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9723946-EB1F-4394-BF1B-0A19578AA06B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C9723946-EB1F-4394-BF1B-0A19578AA06B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C9723946-EB1F-4394-BF1B-0A19578AA06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9723946-EB1F-4394-BF1B-0A19578AA06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A2FF62-103E-4BB1-860D-9E6E2EE77628}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{72A2FF62-103E-4BB1-860D-9E6E2EE77628}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{72A2FF62-103E-4BB1-860D-9E6E2EE77628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A2FF62-103E-4BB1-860D-9E6E2EE77628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
